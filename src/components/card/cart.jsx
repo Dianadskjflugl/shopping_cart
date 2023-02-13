@@ -1,4 +1,4 @@
-import CartHeader from './cartHeader.jsx/cartHeader'
+import CartHeader from './cartHeader/cartHeader'
 import ProductElement from './product/product'
 import CartFooter from './footer/footer'
 import { useSelector } from 'react-redux'

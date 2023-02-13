@@ -1,4 +1,4 @@
-import './CartHeader.scss'
+import './cartHeader.scss';
 
 const CartHeader = () => {
     return (
